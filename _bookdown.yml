@@ -1,3 +1,8 @@
 book_filename: "book"
 delete_merged_file: true
 output_dir: "_book"
+
+rmd_files:
+  - index.Rmd
+  - 01-revolution.Rmd
+  - 02-spicyuno.Rmd
