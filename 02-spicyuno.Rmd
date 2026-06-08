@@ -1,0 +1,48 @@
+# Spicy Uno
+
+------------------------------------------------------------------------
+
+  Spciy Uno is classified as a shedding-type card game. A spicy twist on the classic card game Uno. Boasting new rules, Spicy Uno creates chaos at the table. The game plays just like Uno, except, many cards have added abilities.
+
+## Setup
+
+------------------------------------------------------------------------
+
+- A pack of Uno cards
+
+## General Rules
+
+------------------------------------------------------------------------
+
+### Rules
+
+1.  Normal Uno rules.
+
+2.  Before drawing, any player may offer a card to the player who is drawing (whether immediately playable or not). Players that consistently offer playable cards increase their repertoire.
+
+3.  When drawing cards, drawing continues until the player receives a playable card.
+
+4.  Plus Cards stack indefinitely.
+
+    > *E.g. Player 1 plays a +2 card and player 2 plays a +4 card. If player 3 cannot play, they must draw 6 cards.*
+
+5.  The player must draw 2 cards as a penalty for someone beating them to "Uno!"
+
+6.  Any card which is the exact same as the card laid (number and color) may be played at any point in the game, regardless of turn. The turn then continues with the player after the player who laid the previous card.
+
+    > *E.g. Player 1 plays a blue three, player 5 may play a blue three skipping Players 2, 3, and 4's turns. The game then continues to Player 6.*
+
+### Card Abilities
+
+------------------------------------------------------------------------
+
+- **Zero** cards give the player the option to force another player to swap their hand with you.
+- **Six** cards require an action from every player. When played, every player must tap the table, the last one to tap the table receives one card.
+- **Seven** cards mute every player. If you speak while the seven is in action, you receive one card per word you speak. The *curse* is broken when another seven is played.
+- **Eight** cards act as an additional reverse.
+
+## How to Play
+
+------------------------------------------------------------------------
+
+  General Uno rules. Begin by dealing each player 7 cards. Put the rest in a draw deck. Start the game by drawing and placing the first card from the draw deck into the discard pile. The first player to the left of the dealer is the first to play. Continue the game referencing the rules when needed. The first player to play all their cards wins.

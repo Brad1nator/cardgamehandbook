@@ -1,0 +1,27 @@
+---
+title: "Card Game Handbook"
+author: "B. Tener"
+date: "`r Sys.Date()`"
+description: "A handbook to our most played games."
+download: null
+url:
+github-repo:
+cover-image:
+apple-touch-icon:
+apple-touch-icon-size: 120
+favicon:
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook:
+    config:
+     fontsettings:
+       theme: night
+       family: serif
+---
+
+# Preface
+
+------------------------------------------------------------------------
+
+  This is an encyclopedia dedicated to games curated, modified, and enshrined. The origins of these games are unknown but we do know they have been played at places like the Burnt Cabin Christian Camp for many years. Each game will be given its own section containing a complete book of rules, how to play section, and various strategies. Included within will also be optional or additional rules to make each game more difficult or accommodate more players. Enjoy these insanely fun games!\
