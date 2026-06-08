@@ -1,7 +1,1 @@
-This is a minimal bookdown example. Although you see a few files here, only `index.Rmd` is required. All other files are optional, but `bookdown-minimal.Rproj` can make it much easier to build the book.
-
-The key is the `site` setting in `index.Rmd`. If you want to build the book in RStudio, just click the `Build Book` button in the `Build` pane, otherwise call the function in R:
-
-```r
-bookdown::render_book('index.Rmd', 'all')
-```
+This is an encyclopedia dedicated to games curated, modified, and enshrined. The origins of these games are unknown but we do know they have been played at places like the Burnt Cabin Christian Camp for many years. Each game will be given its own section containing a complete book of rules, how to play section, and various strategies. Included within will also be optional or additional rules to make each game more difficult or accommodate more players. Enjoy these insanely fun games!
