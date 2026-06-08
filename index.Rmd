@@ -2,22 +2,14 @@
 title: "Card Game Handbook"
 author: "B. Tener"
 date: "`r Sys.Date()`"
-description: "A handbook to our most played games."
-download: null
-url:
-github-repo:
-cover-image:
-apple-touch-icon:
-apple-touch-icon-size: 120
-favicon:
 site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook:
     config:
-     fontsettings:
-       theme: night
-       family: serif
+      fontsettings:
+        theme: night
+        family: serif
 ---
 
 # Preface
