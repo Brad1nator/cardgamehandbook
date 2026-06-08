@@ -1,0 +1,17 @@
+preface
+revolution
+setup
+general-rules
+basic-rules
+ultimate-rules-optional
+card-values
+player-ranks
+how-to-play
+determinant-round
+proceeding-rounds
+spicy-uno
+setup-1
+general-rules-1
+rules
+card-abilities
+how-to-play-1
